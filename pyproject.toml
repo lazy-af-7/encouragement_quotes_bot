@@ -8,6 +8,8 @@ authors = ["lazyaf7 <<>>"]
 python = "^3.8"
 discord = "^1.0.1"
 python-dotenv = "^0.17.0"
+replit = "^3.0.0"
+flask = "^1.1.2"
 
 [tool.poetry.dev-dependencies]
 
